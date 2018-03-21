@@ -2,7 +2,7 @@
 //  Jessica Giardina and Maddie Eckhart
 //  Hangman
 //
-//  Copyright © 2017 University of Cincinnati. All rights reserved.
+//  Copyright ©2017 University of Cincinnati. All rights reserved.
 
 #include <iostream>
 #include <string>
